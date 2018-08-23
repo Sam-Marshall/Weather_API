@@ -1,0 +1,2106 @@
+Latitudinal Weather Analysis
+618 unique cities
+Location: Grand Gaube, MU. City ID: 934479
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=grand+gaube,mu
+
+Location: Albany, AU. City ID: 2077963
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=albany,au
+
+Location: Puerto Ayora, EC. City ID: 3652764
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=puerto+ayora,ec
+
+Location: Kavaratti, IN. City ID: 1267390
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kavaratti,in
+
+Location: Kuryk, KZ. City ID: 609919
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kuryk,kz
+
+Location: mys shmidta, ru has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=mys+shmidta,ru
+
+Location: Semnan, IR. City ID: 116402
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=semnan,ir
+
+Location: Kodiak, US. City ID: 4407665
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kodiak,us
+
+Location: Mar del Plata, AR. City ID: 3863379
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=mar+del+plata,ar
+
+Location: Cidreira, BR. City ID: 3466165
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=cidreira,br
+
+Location: San Patricio, MX. City ID: 3985168
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=san+patricio,mx
+
+Location: Cherskiy, RU. City ID: 2126199
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=cherskiy,ru
+
+Location: Vaini, TO. City ID: 4032243
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=vaini,to
+
+Location: Kaka, TM. City ID: 161901
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kaka,tm
+
+Location: Provideniya, RU. City ID: 4031574
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=provideniya,ru
+
+Location: Coihaique, CL. City ID: 3894426
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=coihaique,cl
+
+Location: Agasegyhaza, HU. City ID: 3056391
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=agasegyhaza,hu
+
+Location: Butaritari, KI. City ID: 2110227
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=butaritari,ki
+
+Location: mataura, pf has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=mataura,pf
+
+Location: Yellowknife, CA. City ID: 6185377
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=yellowknife,ca
+
+Location: Harper, LR. City ID: 2276492
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=harper,lr
+
+Location: Busselton, AU. City ID: 2075265
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=busselton,au
+
+Location: Palmer, US. City ID: 5871146
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=palmer,us
+
+Location: Klaksvik, FO. City ID: 2618795
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=klaksvik,fo
+
+Location: Chuy, UY. City ID: 3443061
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=chuy,uy
+
+Location: Rikitea, PF. City ID: 4030556
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=rikitea,pf
+
+Location: Henties Bay, NA. City ID: 3356832
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=henties+bay,na
+
+Location: Saint-Philippe, RE. City ID: 935215
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=saint-philippe,re
+
+Location: Mahebourg, MU. City ID: 934322
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=mahebourg,mu
+
+Location: Cape Town, ZA. City ID: 3369157
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=cape+town,za
+
+Location: samusu, ws has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=samusu,ws
+
+Location: Nikolskoye, RU. City ID: 546105
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=nikolskoye,ru
+
+Location: Castro, CL. City ID: 3896218
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=castro,cl
+
+Location: Thompson, CA. City ID: 6165406
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=thompson,ca
+
+Location: Medicine Hat, CA. City ID: 6071618
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=medicine+hat,ca
+
+Location: phumi samraong, kh has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=phumi+samraong,kh
+
+Location: Dingle, IE. City ID: 2964782
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=dingle,ie
+
+Location: Avarua, CK. City ID: 4035715
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=avarua,ck
+
+Location: Port Alfred, ZA. City ID: 964432
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=port+alfred,za
+
+Location: attawapiskat, ca has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=attawapiskat,ca
+
+Location: Le Port, RE. City ID: 935616
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=le+port,re
+
+Location: Tiksi, RU. City ID: 2015306
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=tiksi,ru
+
+Location: Kencong, ID. City ID: 1632358
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kencong,id
+
+Location: Kaitangata, NZ. City ID: 2208248
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kaitangata,nz
+
+Location: Atuona, PF. City ID: 4020109
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=atuona,pf
+
+Location: Hattiesburg, US. City ID: 4429295
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=hattiesburg,us
+
+Location: Barrow, US. City ID: 4252975
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=barrow,us
+
+Location: Cabo San Lucas, MX. City ID: 3985710
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=cabo+san+lucas,mx
+
+Location: saleaula, ws has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=saleaula,ws
+
+Location: Hithadhoo, MV. City ID: 1282256
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=hithadhoo,mv
+
+Location: dolbeau, ca has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=dolbeau,ca
+
+Location: belushya guba, ru has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=belushya+guba,ru
+
+Location: San Vicente, PH. City ID: 1687428
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=san+vicente,ph
+
+Location: Tananger, NO. City ID: 3134865
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=tananger,no
+
+Location: Qasigiannguit, GL. City ID: 3420768
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=qasigiannguit,gl
+
+Location: Waipawa, NZ. City ID: 2185329
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=waipawa,nz
+
+Location: Alta Floresta, BR. City ID: 6316343
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=alta+floresta,br
+
+Location: Tahta, EG. City ID: 347634
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=tahta,eg
+
+Location: Upernavik, GL. City ID: 3418910
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=upernavik,gl
+
+Location: Sao Filipe, CV. City ID: 3374210
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=sao+filipe,cv
+
+Location: Ormara, PK. City ID: 1168700
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=ormara,pk
+
+Location: Ushuaia, AR. City ID: 3833367
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=ushuaia,ar
+
+Location: Hermanus, ZA. City ID: 3366880
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=hermanus,za
+
+Location: Inhambane, MZ. City ID: 1045114
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=inhambane,mz
+
+Location: Chifeng, CN. City ID: 2038067
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=chifeng,cn
+
+Location: viligili, mv has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=viligili,mv
+
+Location: Rio Claro, TT. City ID: 3573840
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=rio+claro,tt
+
+Location: Khatanga, RU. City ID: 2022572
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=khatanga,ru
+
+Location: Bredasdorp, ZA. City ID: 1015776
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=bredasdorp,za
+
+Location: Altay, CN. City ID: 1529651
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=altay,cn
+
+Location: Punta Arenas, CL. City ID: 3874787
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=punta+arenas,cl
+
+Location: New Norfolk, AU. City ID: 2155415
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=new+norfolk,au
+
+Location: Kushima, JP. City ID: 1895695
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kushima,jp
+
+Location: Chokurdakh, RU. City ID: 2126123
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=chokurdakh,ru
+
+Location: Fairbanks, US. City ID: 5861897
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=fairbanks,us
+
+Location: phan rang, vn has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=phan+rang,vn
+
+Location: Hobart, AU. City ID: 2163355
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=hobart,au
+
+Location: Romitan, UZ. City ID: 1217662
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=romitan,uz
+
+Location: Maniitsoq, GL. City ID: 3421982
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=maniitsoq,gl
+
+Location: Beringovskiy, RU. City ID: 2126710
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=beringovskiy,ru
+
+Location: Souillac, MU. City ID: 933995
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=souillac,mu
+
+Location: Bathsheba, BB. City ID: 3374083
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=bathsheba,bb
+
+Location: Saint-Francois, GP. City ID: 3578441
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=saint-francois,gp
+
+Location: Hobbs, US. City ID: 5471578
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=hobbs,us
+
+Location: Olinda, BR. City ID: 3456160
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=olinda,br
+
+Location: Moree, AU. City ID: 2156927
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=moree,au
+
+Location: taolanaro, mg has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=taolanaro,mg
+
+Location: Itarema, BR. City ID: 3393692
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=itarema,br
+
+Location: Qaanaaq, GL. City ID: 3831208
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=qaanaaq,gl
+
+Location: Vaitape, PF. City ID: 4033077
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=vaitape,pf
+
+Location: Kurumkan, RU. City ID: 2021188
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kurumkan,ru
+
+Location: Nicoya, CR. City ID: 3622716
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=nicoya,cr
+
+Location: Chinhoyi, ZW. City ID: 893697
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=chinhoyi,zw
+
+Location: Ilulissat, GL. City ID: 3423146
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=ilulissat,gl
+
+Location: Broken Hill, AU. City ID: 2173911
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=broken+hill,au
+
+Location: Luba, GQ. City ID: 2309528
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=luba,gq
+
+Location: Brezno, SK. City ID: 3060950
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=brezno,sk
+
+Location: Tommot, RU. City ID: 2015179
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=tommot,ru
+
+Location: Trinidad, BO. City ID: 3902377
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=trinidad,bo
+
+Location: Ancud, CL. City ID: 3899695
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=ancud,cl
+
+Location: Lompoc, US. City ID: 5367788
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=lompoc,us
+
+Location: Keti Bandar, PK. City ID: 1174451
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=keti+bandar,pk
+
+Location: Sitka, US. City ID: 4267710
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=sitka,us
+
+Location: Kulhudhuffushi, MV. City ID: 1337613
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kulhudhuffushi,mv
+
+Location: Jamestown, SH. City ID: 3370903
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=jamestown,sh
+
+Location: Ostrovnoy, RU. City ID: 556268
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=ostrovnoy,ru
+
+Location: Georgetown, SH. City ID: 2411397
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=georgetown,sh
+
+Location: Gubkinskiy, RU. City ID: 1539209
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=gubkinskiy,ru
+
+Location: Chicama, PE. City ID: 3698359
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=chicama,pe
+
+Location: Boissevain, CA. City ID: 5905191
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=boissevain,ca
+
+Location: Tuktoyaktuk, CA. City ID: 6170031
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=tuktoyaktuk,ca
+
+Location: College, US. City ID: 5859699
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=college,us
+
+Location: codrington, ag has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=codrington,ag
+
+Location: Faanui, PF. City ID: 4034551
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=faanui,pf
+
+Location: Vardo, NO. City ID: 777019
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=vardo,no
+
+Location: Opuwo, NA. City ID: 3354077
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=opuwo,na
+
+Location: Cotonou, BJ. City ID: 2394819
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=cotonou,bj
+
+Location: Itororo, BR. City ID: 3460542
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=itororo,br
+
+Location: illoqqortoormiut, gl has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=illoqqortoormiut,gl
+
+Location: Anadyr, RU. City ID: 2127202
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=anadyr,ru
+
+Location: Zhicheng, CN. City ID: 1805012
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=zhicheng,cn
+
+Location: tumannyy, ru has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=tumannyy,ru
+
+Location: Coquimbo, CL. City ID: 3893629
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=coquimbo,cl
+
+Location: North Bend, US. City ID: 5742974
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=north+bend,us
+
+Location: Jabinyanah, TN. City ID: 2470260
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=jabinyanah,tn
+
+Location: tuggurt, dz has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=tuggurt,dz
+
+Location: Lukovetskiy, RU. City ID: 533418
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=lukovetskiy,ru
+
+Location: Ambilobe, MG. City ID: 1082243
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=ambilobe,mg
+
+Location: gat, ly has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=gat,ly
+
+Location: Makakilo City, US. City ID: 5850554
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=makakilo+city,us
+
+Location: Takoradi, GH. City ID: 2294915
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=takoradi,gh
+
+Location: Indian Head, CA. City ID: 5982839
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=indian+head,ca
+
+Location: Pisco, PE. City ID: 3932145
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=pisco,pe
+
+Location: Datong, CN. City ID: 2037799
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=datong,cn
+
+Location: Kapaa, US. City ID: 5848280
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kapaa,us
+
+Location: Sao Jose da Coroa Grande, BR. City ID: 3388456
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=sao+jose+da+coroa+grande,br
+
+Location: Geraldton, AU. City ID: 2070998
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=geraldton,au
+
+Location: Kautokeino, NO. City ID: 779330
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kautokeino,no
+
+Location: Atambua, ID. City ID: 1651103
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=atambua,id
+
+Location: Taupo, NZ. City ID: 2181742
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=taupo,nz
+
+Location: Arraial do Cabo, BR. City ID: 3471451
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=arraial+do+cabo,br
+
+Location: Camopi, GF. City ID: 3382226
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=camopi,gf
+
+Location: Ahipara, NZ. City ID: 2194098
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=ahipara,nz
+
+Location: Dali, CN. City ID: 1814093
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=dali,cn
+
+Location: amderma, ru has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=amderma,ru
+
+Location: Cordoba, AR. City ID: 3846616
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=cordoba,ar
+
+Location: Lebu, CL. City ID: 3883457
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=lebu,cl
+
+Location: Hecun, CN. City ID: 1808749
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=hecun,cn
+
+Location: Kota Kinabalu, MY. City ID: 1733432
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kota+kinabalu,my
+
+Location: Turukhansk, RU. City ID: 1488903
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=turukhansk,ru
+
+Location: zhitikara, kz has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=zhitikara,kz
+
+Location: nizhneyansk, ru has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=nizhneyansk,ru
+
+Location: Aleppo, SY. City ID: 170063
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=aleppo,sy
+
+Location: Hilo, US. City ID: 5855927
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=hilo,us
+
+Location: Matadi, CD. City ID: 2313002
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=matadi,cd
+
+Location: Bambous Virieux, MU. City ID: 1106677
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=bambous+virieux,mu
+
+Location: Sao Joao da Barra, BR. City ID: 3448903
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=sao+joao+da+barra,br
+
+Location: Kremenchuk, UA. City ID: 704147
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kremenchuk,ua
+
+Location: Vestmannaeyjar, IS. City ID: 3412093
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=vestmannaeyjar,is
+
+Location: Dikson, RU. City ID: 1507390
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=dikson,ru
+
+Location: Meulaboh, ID. City ID: 1214488
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=meulaboh,id
+
+Location: Rosario do Sul, BR. City ID: 3450873
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=rosario+do+sul,br
+
+Location: Vila Velha, BR. City ID: 6320062
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=vila+velha,br
+
+Location: bengkulu, id has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=bengkulu,id
+
+Location: Kaeo, NZ. City ID: 2189343
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kaeo,nz
+
+Location: Baiyin, CN. City ID: 1817240
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=baiyin,cn
+
+Location: Sosnovo-Ozerskoye, RU. City ID: 2016216
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=sosnovo-ozerskoye,ru
+
+Location: Port Lincoln, AU. City ID: 2063036
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=port+lincoln,au
+
+Location: Pangnirtung, CA. City ID: 6096551
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=pangnirtung,ca
+
+Location: Tual, ID. City ID: 1623197
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=tual,id
+
+Location: kuche, cn has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kuche,cn
+
+Location: Puerto Escondido, MX. City ID: 3520994
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=puerto+escondido,mx
+
+Location: Cochrane, CA. City ID: 5924618
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=cochrane,ca
+
+Location: Victoria, SC. City ID: 241131
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=victoria,sc
+
+Location: qabis, tn has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=qabis,tn
+
+Location: mahaicony, gy has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=mahaicony,gy
+
+Location: sentyabrskiy, ru has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=sentyabrskiy,ru
+
+Location: airai, pw has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=airai,pw
+
+Location: Yablonovo, RU. City ID: 578283
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=yablonovo,ru
+
+Location: Semey, KZ. City ID: 1519422
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=semey,kz
+
+Location: cozumel, mx has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=cozumel,mx
+
+Location: Manuk Mangkaw, PH. City ID: 1701394
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=manuk+mangkaw,ph
+
+Location: Wageningen, SR. City ID: 3382783
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=wageningen,sr
+
+Location: Novotroitsk, RU. City ID: 517836
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=novotroitsk,ru
+
+Location: Santa Helena de Goias, BR. City ID: 3450206
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=santa+helena+de+goias,br
+
+Location: tsihombe, mg has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=tsihombe,mg
+
+Location: Ulaanbaatar, MN. City ID: 2028462
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=ulaanbaatar,mn
+
+Location: Fayaoue, NC. City ID: 2141305
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=fayaoue,nc
+
+Location: Smithers, CA. City ID: 6149996
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=smithers,ca
+
+Location: Dwarka, IN. City ID: 1273294
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=dwarka,in
+
+Location: East London, ZA. City ID: 1006984
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=east+london,za
+
+Location: Sahibganj, IN. City ID: 1257794
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=sahibganj,in
+
+Location: Milton, CA. City ID: 6092122
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=milton,ca
+
+Location: Necochea, AR. City ID: 3430443
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=necochea,ar
+
+Location: Santa Maria, CV. City ID: 3374218
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=santa+maria,cv
+
+Location: Lahij, YE. City ID: 73560
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=lahij,ye
+
+Location: Longyearbyen, SJ. City ID: 2729907
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=longyearbyen,sj
+
+Location: Port Elizabeth, ZA. City ID: 964420
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=port+elizabeth,za
+
+Location: Ponta do Sol, CV. City ID: 3374346
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=ponta+do+sol,cv
+
+Location: Luderitz, NA. City ID: 3355672
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=luderitz,na
+
+Location: Bagula, IN. City ID: 1277844
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=bagula,in
+
+Location: Tura, RU. City ID: 2014833
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=tura,ru
+
+Location: Yashan, CN. City ID: 1786866
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=yashan,cn
+
+Location: Aklavik, CA. City ID: 5882953
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=aklavik,ca
+
+Location: San Luis, AR. City ID: 3837056
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=san+luis,ar
+
+Location: Russell, NZ. City ID: 2188874
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=russell,nz
+
+Location: Calabozo, VE. City ID: 3647444
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=calabozo,ve
+
+Location: Aldan, RU. City ID: 2027968
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=aldan,ru
+
+Location: Saskylakh, RU. City ID: 2017155
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=saskylakh,ru
+
+Location: Clyde River, CA. City ID: 5924351
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=clyde+river,ca
+
+Location: Grindavik, IS. City ID: 3416888
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=grindavik,is
+
+Location: Thomaston, US. City ID: 4226364
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=thomaston,us
+
+Location: Port Hedland, AU. City ID: 2063042
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=port+hedland,au
+
+Location: Namatanai, PG. City ID: 2090021
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=namatanai,pg
+
+Location: Kavieng, PG. City ID: 2094342
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kavieng,pg
+
+Location: Ojinaga, MX. City ID: 3994469
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=ojinaga,mx
+
+Location: Tsabong, BW. City ID: 932987
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=tsabong,bw
+
+Location: Komsomolskiy, RU. City ID: 1486910
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=komsomolskiy,ru
+
+Location: Dharchula, IN. City ID: 1272864
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=dharchula,in
+
+Location: Novo Aripuana, BR. City ID: 3663142
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=novo+aripuana,br
+
+Location: Chabahar, IR. City ID: 1161724
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=chabahar,ir
+
+Location: Zhezkazgan, KZ. City ID: 1516589
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=zhezkazgan,kz
+
+Location: Shenjiamen, CN. City ID: 1795632
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=shenjiamen,cn
+
+Location: Los Llanos de Aridane, ES. City ID: 2514651
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=los+llanos+de+aridane,es
+
+Location: Kuching, MY. City ID: 1735634
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kuching,my
+
+Location: Ponta Delgada, PT. City ID: 3372783
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=ponta+delgada,pt
+
+Location: Tezu, IN. City ID: 1254709
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=tezu,in
+
+Location: Severo-Kurilsk, RU. City ID: 2121385
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=severo-kurilsk,ru
+
+Location: Ouadda, CF. City ID: 236901
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=ouadda,cf
+
+Location: Englewood, US. City ID: 5421250
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=englewood,us
+
+Location: Zhangye, CN. City ID: 1785036
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=zhangye,cn
+
+Location: Praia da Vitoria, PT. City ID: 3372760
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=praia+da+vitoria,pt
+
+Location: Port Hardy, CA. City ID: 6111862
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=port+hardy,ca
+
+Location: Porto Velho, BR. City ID: 3662762
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=porto+velho,br
+
+Location: Santa Lucia, ES. City ID: 2511150
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=santa+lucia,es
+
+Location: Yerbogachen, RU. City ID: 2012956
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=yerbogachen,ru
+
+Location: Salalah, OM. City ID: 286621
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=salalah,om
+
+Location: Naryan-Mar, RU. City ID: 523392
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=naryan-mar,ru
+
+Location: Bluff, NZ. City ID: 2206939
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=bluff,nz
+
+Location: La Ronge, CA. City ID: 6050066
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=la+ronge,ca
+
+Location: Cherepovets, RU. City ID: 569223
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=cherepovets,ru
+
+Location: Matara, LK. City ID: 1235846
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=matara,lk
+
+Location: Evensk, RU. City ID: 2125693
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=evensk,ru
+
+Location: Ban Bung, TH. City ID: 1608418
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=ban+bung,th
+
+Location: Teknaf, BD. City ID: 1185095
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=teknaf,bd
+
+Location: Tucupita, VE. City ID: 3625929
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=tucupita,ve
+
+Location: Torbay, CA. City ID: 6167817
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=torbay,ca
+
+Location: Kuito, AO. City ID: 3348078
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kuito,ao
+
+Location: Tasiilaq, GL. City ID: 3424607
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=tasiilaq,gl
+
+Location: Lagoa, PT. City ID: 2267254
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=lagoa,pt
+
+Location: vaitupu, wf has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=vaitupu,wf
+
+Location: Atikokan, CA. City ID: 5888001
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=atikokan,ca
+
+Location: Eyl, SO. City ID: 60019
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=eyl,so
+
+Location: Dunmore Town, BS. City ID: 3572462
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=dunmore+town,bs
+
+Location: tidore, id has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=tidore,id
+
+Location: Ozernovskiy, RU. City ID: 2122293
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=ozernovskiy,ru
+
+Location: Katherine, AU. City ID: 2068655
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=katherine,au
+
+Location: sakakah, sa has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=sakakah,sa
+
+Location: Hasaki, JP. City ID: 2112802
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=hasaki,jp
+
+Location: Karlshamn, SE. City ID: 2701727
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=karlshamn,se
+
+Location: Aksarka, RU. City ID: 1512019
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=aksarka,ru
+
+Location: Aswan, EG. City ID: 359792
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=aswan,eg
+
+Location: Watsa, CD. City ID: 204283
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=watsa,cd
+
+Location: Alice Town, BS. City ID: 3572924
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=alice+town,bs
+
+Location: Porto Walter, BR. City ID: 3662761
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=porto+walter,br
+
+Location: Christiana, ZA. City ID: 1013550
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=christiana,za
+
+Location: Grand-Santi, GF. City ID: 3381538
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=grand-santi,gf
+
+Location: Broome, AU. City ID: 2075720
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=broome,au
+
+Location: Eureka, US. City ID: 5563397
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=eureka,us
+
+Location: asfi, ma has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=asfi,ma
+
+Location: Ossora, RU. City ID: 2122389
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=ossora,ru
+
+Location: bur gabo, so has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=bur+gabo,so
+
+Location: Puerto Colombia, CO. City ID: 3671497
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=puerto+colombia,co
+
+Location: Bella Union, UY. City ID: 3443631
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=bella+union,uy
+
+Location: bolungarvik, is has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=bolungarvik,is
+
+Location: Ribas do Rio Pardo, BR. City ID: 3451399
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=ribas+do+rio+pardo,br
+
+Location: Chapada dos Guimaraes, BR. City ID: 3466307
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=chapada+dos+guimaraes,br
+
+Location: akyab, mm has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=akyab,mm
+
+Location: Xichang, CN. City ID: 1789647
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=xichang,cn
+
+Location: Lerici, IT. City ID: 3174856
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=lerici,it
+
+Location: samalaeulu, ws has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=samalaeulu,ws
+
+Location: Takab, IR. City ID: 113508
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=takab,ir
+
+Location: Narsaq, GL. City ID: 3421719
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=narsaq,gl
+
+Location: Aykhal, RU. City ID: 2027296
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=aykhal,ru
+
+Location: grand river south east, mu has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=grand+river+south+east,mu
+
+Location: Naantali, FI. City ID: 645212
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=naantali,fi
+
+Location: Petropavlovsk-Kamchatskiy, RU. City ID: 2122104
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=petropavlovsk-kamchatskiy,ru
+
+Location: Wattegama, LK. City ID: 1241622
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=wattegama,lk
+
+Location: Batagay, RU. City ID: 2027044
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=batagay,ru
+
+Location: olafsvik, is has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=olafsvik,is
+
+Location: Carnarvon, AU. City ID: 2074865
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=carnarvon,au
+
+Location: Mercedes, AR. City ID: 3430709
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=mercedes,ar
+
+Location: Ritchie, ZA. City ID: 961226
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=ritchie,za
+
+Location: Amazar, RU. City ID: 2027806
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=amazar,ru
+
+Location: Balabac, PH. City ID: 1728675
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=balabac,ph
+
+Location: Barreirinhas, BR. City ID: 3406196
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=barreirinhas,br
+
+Location: tarudant, ma has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=tarudant,ma
+
+Location: Namibe, AO. City ID: 3347019
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=namibe,ao
+
+Location: Port-Gentil, GA. City ID: 2396518
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=port-gentil,ga
+
+Location: Lieksa, FI. City ID: 648090
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=lieksa,fi
+
+Location: Lerwick, GB. City ID: 2644605
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=lerwick,gb
+
+Location: Bilibino, RU. City ID: 2126682
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=bilibino,ru
+
+Location: Ugoofaaru, MV. City ID: 1337619
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=ugoofaaru,mv
+
+Location: Garachine, PA. City ID: 3709361
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=garachine,pa
+
+Location: Canutama, BR. City ID: 3664716
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=canutama,br
+
+Location: dianopolis, br has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=dianopolis,br
+
+Location: Pevek, RU. City ID: 2122090
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=pevek,ru
+
+Location: Morant Bay, JM. City ID: 3489440
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=morant+bay,jm
+
+Location: General Pico, AR. City ID: 3855075
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=general+pico,ar
+
+Location: Bethel, US. City ID: 5880568
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=bethel,us
+
+Location: Bellavista, PE. City ID: 3699364
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=bellavista,pe
+
+Location: Dunedin, NZ. City ID: 2191562
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=dunedin,nz
+
+Location: Agadez, NE. City ID: 2448085
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=agadez,ne
+
+Location: emba, kz has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=emba,kz
+
+Location: altonia, br has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=altonia,br
+
+Location: kadykchan, ru has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kadykchan,ru
+
+Location: Great Falls, US. City ID: 5655240
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=great+falls,us
+
+Location: Miranda, BR. City ID: 3457113
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=miranda,br
+
+Location: Ninghai, CN. City ID: 1799384
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=ninghai,cn
+
+Location: Hofn, IS. City ID: 2630299
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=hofn,is
+
+Location: Muroto, JP. City ID: 1856392
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=muroto,jp
+
+Location: Turiacu, BR. City ID: 3665361
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=turiacu,br
+
+Location: Edd, ER. City ID: 338345
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=edd,er
+
+Location: Oconomowoc, US. City ID: 5265499
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=oconomowoc,us
+
+Location: samana, do has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=samana,do
+
+Location: Hua Hin, TH. City ID: 1153269
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=hua+hin,th
+
+Location: Cascais, PT. City ID: 2269594
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=cascais,pt
+
+Location: palabuhanratu, id has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=palabuhanratu,id
+
+Location: Puerto Narino, CO. City ID: 3671387
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=puerto+narino,co
+
+Location: Segezha, RU. City ID: 497927
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=segezha,ru
+
+Location: saint anthony, ca has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=saint+anthony,ca
+
+Location: Tongren, CN. City ID: 1792592
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=tongren,cn
+
+Location: Norman Wells, CA. City ID: 6089245
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=norman+wells,ca
+
+Location: Manta, EC. City ID: 3654410
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=manta,ec
+
+Location: Lorengau, PG. City ID: 2092164
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=lorengau,pg
+
+Location: Kloulklubed, PW. City ID: 7671223
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kloulklubed,pw
+
+Location: lata, sb has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=lata,sb
+
+Location: Soyo, AO. City ID: 2236967
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=soyo,ao
+
+Location: Maceio, BR. City ID: 3395981
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=maceio,br
+
+Location: Najran, SA. City ID: 103630
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=najran,sa
+
+Location: Jalu, LY. City ID: 86049
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=jalu,ly
+
+Location: Sola, VU. City ID: 2134814
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=sola,vu
+
+Location: sayalgudi, in has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=sayalgudi,in
+
+Location: Shizuishan, CN. City ID: 1813344
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=shizuishan,cn
+
+Location: Morgan City, US. City ID: 4333811
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=morgan+city,us
+
+Location: Cap Malheureux, MU. City ID: 934649
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=cap+malheureux,mu
+
+Location: Champasak, LA. City ID: 1657819
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=champasak,la
+
+Location: Samboan, PH. City ID: 1690623
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=samboan,ph
+
+Location: vila, vu has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=vila,vu
+
+Location: Barcelos, BR. City ID: 3665098
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=barcelos,br
+
+Location: Kedrovyy, RU. City ID: 1538641
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kedrovyy,ru
+
+Location: Kununurra, AU. City ID: 2068110
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kununurra,au
+
+Location: Sur, OM. City ID: 286245
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=sur,om
+
+Location: lolua, tv has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=lolua,tv
+
+Location: Inuvik, CA. City ID: 5983607
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=inuvik,ca
+
+Location: Champerico, GT. City ID: 3598787
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=champerico,gt
+
+Location: sidi qasim, ma has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=sidi+qasim,ma
+
+Location: kismayo, so has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kismayo,so
+
+Location: Ola, RU. City ID: 2122574
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=ola,ru
+
+Location: Isangel, VU. City ID: 2136825
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=isangel,vu
+
+Location: Rawson, AR. City ID: 3839307
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=rawson,ar
+
+Location: Tapes, BR. City ID: 3446880
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=tapes,br
+
+Location: el alto, pe has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=el+alto,pe
+
+Location: Ewa Beach, US. City ID: 5855051
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=ewa+beach,us
+
+Location: Vanimo, PG. City ID: 2084442
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=vanimo,pg
+
+Location: Develi, TR. City ID: 316795
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=develi,tr
+
+Location: Gberia Fotombu, SL. City ID: 2409019
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=gberia+fotombu,sl
+
+Location: Iqaluit, CA. City ID: 5983720
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=iqaluit,ca
+
+Location: rungata, ki has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=rungata,ki
+
+Location: Kawalu, ID. City ID: 1640902
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kawalu,id
+
+Location: Nepomuceno, BR. City ID: 3456324
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=nepomuceno,br
+
+Location: San Ignacio, CR. City ID: 3621890
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=san+ignacio,cr
+
+Location: Oranjemund, NA. City ID: 3354071
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=oranjemund,na
+
+Location: Allapalli, IN. City ID: 1278987
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=allapalli,in
+
+Location: Wanaka, NZ. City ID: 2184707
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=wanaka,nz
+
+Location: Schio, IT. City ID: 3166917
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=schio,it
+
+Location: Privolzhye, RU. City ID: 505043
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=privolzhye,ru
+
+Location: Roald, NO. City ID: 3141667
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=roald,no
+
+Location: saint stephen, ca has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=saint+stephen,ca
+
+Location: Belen, TR. City ID: 321572
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=belen,tr
+
+Location: Sagaing, MM. City ID: 1298482
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=sagaing,mm
+
+Location: Bandarbeyla, SO. City ID: 64814
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=bandarbeyla,so
+
+Location: Havre-Saint-Pierre, CA. City ID: 5972291
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=havre-saint-pierre,ca
+
+Location: Ankang, CN. City ID: 1789065
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=ankang,cn
+
+Location: Kahului, US. City ID: 5847411
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kahului,us
+
+Location: Brownsville, US. City ID: 4676740
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=brownsville,us
+
+Location: Abu Dhabi, AE. City ID: 292968
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=abu+dhabi,ae
+
+Location: Presidencia Roque Saenz Pena, AR. City ID: 3840300
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=presidencia+roque+saenz+pena,ar
+
+Location: Mahanoro, MG. City ID: 1062553
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=mahanoro,mg
+
+Location: Saldanha, ZA. City ID: 3361934
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=saldanha,za
+
+Location: Tyrma, RU. City ID: 2014694
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=tyrma,ru
+
+Location: Cacoal, BR. City ID: 3925212
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=cacoal,br
+
+Location: Padang, ID. City ID: 1633419
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=padang,id
+
+Location: Bira, RU. City ID: 2026659
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=bira,ru
+
+Location: Riviere-au-Renard, CA. City ID: 6943832
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=riviere-au-renard,ca
+
+Location: Tuatapere, NZ. City ID: 2180815
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=tuatapere,nz
+
+Location: Nuuk, GL. City ID: 3421319
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=nuuk,gl
+
+Location: Lewistown, US. City ID: 4899665
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=lewistown,us
+
+Location: Luangwa, ZM. City ID: 911148
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=luangwa,zm
+
+Location: Salinopolis, BR. City ID: 3389822
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=salinopolis,br
+
+Location: Havoysund, NO. City ID: 779622
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=havoysund,no
+
+Location: kosya, ru has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kosya,ru
+
+Location: San Ramon de la Nueva Oran, AR. City ID: 3836620
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=san+ramon+de+la+nueva+oran,ar
+
+Location: Yeppoon, AU. City ID: 2142316
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=yeppoon,au
+
+Location: Angoche, MZ. City ID: 1052944
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=angoche,mz
+
+Location: Kaseda, JP. City ID: 1859964
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kaseda,jp
+
+Location: Flinders, AU. City ID: 6255012
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=flinders,au
+
+Location: barentsburg, sj has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=barentsburg,sj
+
+Location: nam tha, la has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=nam+tha,la
+
+Location: Byron Bay, AU. City ID: 2172880
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=byron+bay,au
+
+Location: Ureki, GE. City ID: 611274
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=ureki,ge
+
+Location: Sarakhs, IR. City ID: 1159716
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=sarakhs,ir
+
+Location: Nanortalik, GL. City ID: 3421765
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=nanortalik,gl
+
+Location: Camacha, PT. City ID: 2270385
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=camacha,pt
+
+Location: Constitucion, MX. City ID: 4011743
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=constitucion,mx
+
+Location: Ongandjera, NA. City ID: 3354178
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=ongandjera,na
+
+Location: Weligama, LK. City ID: 1223738
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=weligama,lk
+
+Location: Morondava, MG. City ID: 1058381
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=morondava,mg
+
+Location: Bloomington, US. City ID: 4885164
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=bloomington,us
+
+Location: Nizhnyaya Poyma, RU. City ID: 1497397
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=nizhnyaya+poyma,ru
+
+Location: Sertanopolis, BR. City ID: 3447658
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=sertanopolis,br
+
+Location: Maraba, BR. City ID: 3395503
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=maraba,br
+
+Location: Batagay-Alyta, RU. City ID: 2027042
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=batagay-alyta,ru
+
+Location: Tilichiki, RU. City ID: 2120591
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=tilichiki,ru
+
+Location: Hangu, CN. City ID: 1808931
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=hangu,cn
+
+Location: Tobol, KZ. City ID: 1518139
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=tobol,kz
+
+Location: Merauke, ID. City ID: 2082539
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=merauke,id
+
+Location: Den Helder, NL. City ID: 2757220
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=den+helder,nl
+
+Location: Muros, ES. City ID: 3115824
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=muros,es
+
+Location: Kargasok, RU. City ID: 1504382
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kargasok,ru
+
+Location: marcona, pe has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=marcona,pe
+
+Location: Namikupa, TZ. City ID: 877631
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=namikupa,tz
+
+Location: Otjimbingwe, NA. City ID: 3353871
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=otjimbingwe,na
+
+Location: Hamilton, BM. City ID: 3573197
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=hamilton,bm
+
+Location: Chanika, TZ. City ID: 160592
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=chanika,tz
+
+Location: Half Moon Bay, US. City ID: 5354943
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=half+moon+bay,us
+
+Location: Bonfim, BR. City ID: 3451126
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=bonfim,br
+
+Location: Kruisfontein, ZA. City ID: 986717
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kruisfontein,za
+
+Location: Rocha, UY. City ID: 3440777
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=rocha,uy
+
+Location: Qena, EG. City ID: 350550
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=qena,eg
+
+Location: Andenes, NO. City ID: 3163146
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=andenes,no
+
+Location: Shache, CN. City ID: 1280037
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=shache,cn
+
+Location: Sebeta, ET. City ID: 329114
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=sebeta,et
+
+Location: Venezuela, CU. City ID: 3534432
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=venezuela,cu
+
+Location: Labuhan, ID. City ID: 1641899
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=labuhan,id
+
+Location: Polunochnoye, RU. City ID: 1494482
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=polunochnoye,ru
+
+Location: Turkmenabat, TM. City ID: 1219649
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=turkmenabat,tm
+
+Location: Morros, BR. City ID: 3398381
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=morros,br
+
+Location: Kotdwara, IN. City ID: 1266014
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kotdwara,in
+
+Location: Greenville, US. City ID: 4580543
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=greenville,us
+
+Location: Huarmey, PE. City ID: 3939168
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=huarmey,pe
+
+Location: warqla, dz has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=warqla,dz
+
+Location: Pilar, PH. City ID: 1693839
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=pilar,ph
+
+Location: Gizo, SB. City ID: 2108857
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=gizo,sb
+
+Location: toliary, mg has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=toliary,mg
+
+Location: Leningradskiy, RU. City ID: 2123814
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=leningradskiy,ru
+
+Location: Nevelsk, RU. City ID: 2122894
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=nevelsk,ru
+
+Location: Wajima, JP. City ID: 1848976
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=wajima,jp
+
+Location: Krasyliv, UA. City ID: 704492
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=krasyliv,ua
+
+Location: Athens, US. City ID: 4180386
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=athens,us
+
+Location: Saint George, BM. City ID: 3573061
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=saint+george,bm
+
+Location: Luang Prabang, LA. City ID: 1655559
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=luang+prabang,la
+
+Location: Petrovsk-Zabaykalskiy, RU. City ID: 2017945
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=petrovsk-zabaykalskiy,ru
+
+Location: Malur, IN. City ID: 1264010
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=malur,in
+
+Location: Kyra, RU. City ID: 2021041
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kyra,ru
+
+Location: wolmaranstad, za has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=wolmaranstad,za
+
+Location: Brae, GB. City ID: 2654970
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=brae,gb
+
+Location: Lavrentiya, RU. City ID: 4031637
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=lavrentiya,ru
+
+Location: Nishihara, JP. City ID: 1850144
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=nishihara,jp
+
+Location: Hjelset, NO. City ID: 3152548
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=hjelset,no
+
+Location: Port Macquarie, AU. City ID: 2152659
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=port+macquarie,au
+
+Location: zarakes, gr has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=zarakes,gr
+
+Location: Miandrivazo, MG. City ID: 1059051
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=miandrivazo,mg
+
+Location: Katsuura, JP. City ID: 1865309
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=katsuura,jp
+
+Location: Erenhot, CN. City ID: 2037485
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=erenhot,cn
+
+Location: Bocas del Toro, PA. City ID: 3713959
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=bocas+del+toro,pa
+
+Location: bolshegrivskoye, ru has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=bolshegrivskoye,ru
+
+Location: Talnakh, RU. City ID: 1490256
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=talnakh,ru
+
+Location: Aranos, NA. City ID: 3358666
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=aranos,na
+
+Location: Comodoro Rivadavia, AR. City ID: 3860443
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=comodoro+rivadavia,ar
+
+Location: Morehead, PG. City ID: 2090495
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=morehead,pg
+
+Location: Aloleng, PH. City ID: 1731298
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=aloleng,ph
+
+Location: Pakxan, LA. City ID: 1655140
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=pakxan,la
+
+Location: Sovetskiy, RU. City ID: 490040
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=sovetskiy,ru
+
+Location: Fortuna, US. City ID: 5563839
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=fortuna,us
+
+Location: Cibadak, ID. City ID: 1629710
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=cibadak,id
+
+Location: Sao Simao, BR. City ID: 3448197
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=sao+simao,br
+
+Location: Gornozavodsk, RU. City ID: 559752
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=gornozavodsk,ru
+
+Location: Tres Arroyos, AR. City ID: 3833859
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=tres+arroyos,ar
+
+Location: Asbe Teferi, ET. City ID: 343402
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=asbe+teferi,et
+
+Location: Molina, CL. City ID: 3879627
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=molina,cl
+
+Location: Swan River, CA. City ID: 6160362
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=swan+river,ca
+
+Location: Gidole, ET. City ID: 336526
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=gidole,et
+
+Location: ijaki, ki has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=ijaki,ki
+
+Location: Mayumba, GA. City ID: 2399001
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=mayumba,ga
+
+Location: Digras, IN. City ID: 1272596
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=digras,in
+
+Location: Bangui, CF. City ID: 2389853
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=bangui,cf
+
+Location: Aden, YE. City ID: 415189
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=aden,ye
+
+Location: Bonthe, SL. City ID: 2409914
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=bonthe,sl
+
+Location: Karpathos, GR. City ID: 260895
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=karpathos,gr
+
+Location: Lisala, CD. City ID: 211734
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=lisala,cd
+
+Location: Te Anau, NZ. City ID: 2181625
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=te+anau,nz
+
+Location: Svetlogorsk, RU. City ID: 584051
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=svetlogorsk,ru
+
+Location: Biak, ID. City ID: 1637001
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=biak,id
+
+Location: Road Town, VG. City ID: 3577430
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=road+town,vg
+
+Location: Abbeville, FR. City ID: 3038789
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=abbeville,fr
+
+Location: Batang Berjuntai, MY. City ID: 1732892
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=batang+berjuntai,my
+
+Location: Taltal, CL. City ID: 3870243
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=taltal,cl
+
+Location: Port Alberni, CA. City ID: 6111632
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=port+alberni,ca
+
+Location: Dzhankoy, UA. City ID: 709334
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=dzhankoy,ua
+
+Location: Seoul, KR. City ID: 1835848
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=seoul,kr
+
+Location: Licheng, CN. City ID: 1803790
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=licheng,cn
+
+Location: longlac, ca has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=longlac,ca
+
+Location: Tessalit, ML. City ID: 2449893
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=tessalit,ml
+
+Location: La Asuncion, VE. City ID: 3480908
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=la+asuncion,ve
+
+Location: Cajnice, BA. City ID: 3202895
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=cajnice,ba
+
+Location: Jamame, SO. City ID: 56399
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=jamame,so
+
+Location: Tangjiazhuang, CN. City ID: 1783626
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=tangjiazhuang,cn
+
+Location: Howard Springs, AU. City ID: 6301965
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=howard+springs,au
+
+Location: Kourou, GF. City ID: 3381303
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kourou,gf
+
+Location: Hambantota, LK. City ID: 1244926
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=hambantota,lk
+
+Location: Gashua, NG. City ID: 2341656
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=gashua,ng
+
+Location: Ha Tinh, VN. City ID: 1581047
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=ha+tinh,vn
+
+Location: Cairns, AU. City ID: 2172797
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=cairns,au
+
+Location: West Bay, KY. City ID: 3580477
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=west+bay,ky
+
+Location: Naze, JP. City ID: 1855540
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=naze,jp
+
+Location: goderich, sl has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=goderich,sl
+
+Location: Borovskoy, KZ. City ID: 1525121
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=borovskoy,kz
+
+Location: Clarksburg, US. City ID: 4802316
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=clarksburg,us
+
+Location: Agadir, MA. City ID: 2561668
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=agadir,ma
+
+Location: Phan Thiet, VN. City ID: 1571058
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=phan+thiet,vn
+
+Location: Mitsamiouli, KM. City ID: 921786
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=mitsamiouli,km
+
+Location: Moose Factory, CA. City ID: 6078372
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=moose+factory,ca
+
+Location: Beyneu, KZ. City ID: 610298
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=beyneu,kz
+
+Location: Poum, NC. City ID: 2138555
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=poum,nc
+
+Location: syracuse, it has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=syracuse,it
+
+Location: Gambela, ET. City ID: 337405
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=gambela,et
+
+Location: japura, br has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=japura,br
+
+Location: Yulara, AU. City ID: 6355222
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=yulara,au
+
+Location: Ribeira Grande, PT. City ID: 3372707
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=ribeira+grande,pt
+
+Location: Lesozavodsk, RU. City ID: 2020812
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=lesozavodsk,ru
+
+Location: Shyryayeve, UA. City ID: 694016
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=shyryayeve,ua
+
+Location: Ketchikan, US. City ID: 5554428
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=ketchikan,us
+
+Location: Medea, DZ. City ID: 2488835
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=medea,dz
+
+Location: Asyut, EG. City ID: 359783
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=asyut,eg
+
+Location: Saint-Augustin, CA. City ID: 6138501
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=saint-augustin,ca
+
+Location: Lazaro Cardenas, MX. City ID: 3996234
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=lazaro+cardenas,mx
+
+Location: asau, tv has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=asau,tv
+
+Location: Finschhafen, PG. City ID: 2097418
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=finschhafen,pg
+
+Location: Qazanbulaq, AZ. City ID: 586112
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=qazanbulaq,az
+
+Location: Alofi, NU. City ID: 4036284
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=alofi,nu
+
+Location: Saint-Pierre, PM. City ID: 3424934
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=saint-pierre,pm
+
+Location: huazolotitlan, mx has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=huazolotitlan,mx
+
+Location: Nara, ML. City ID: 6779095
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=nara,ml
+
+Location: Srednekolymsk, RU. City ID: 2121025
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=srednekolymsk,ru
+
+Location: Ramanuj Ganj, IN. City ID: 1258731
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=ramanuj+ganj,in
+
+Location: Vilyuysk, RU. City ID: 2013392
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=vilyuysk,ru
+
+Location: Palauig, PH. City ID: 1696188
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=palauig,ph
+
+Location: Kashan, IR. City ID: 128477
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kashan,ir
+
+Location: Campbellsville, US. City ID: 4286717
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=campbellsville,us
+
+Location: Khasan, RU. City ID: 2039557
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=khasan,ru
+
+Location: Snezhnogorsk, RU. City ID: 795243
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=snezhnogorsk,ru
+
+Location: Pignon, HT. City ID: 3718834
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=pignon,ht
+
+Location: Cukai, MY. City ID: 1732945
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=cukai,my
+
+Location: Along, IN. City ID: 1278969
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=along,in
+
+Location: Roebourne, AU. City ID: 2062276
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=roebourne,au
+
+Location: scottsburgh, za has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=scottsburgh,za
+
+Location: Meadow Lake, CA. City ID: 6071421
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=meadow+lake,ca
+
+Location: Marfino, RU. City ID: 503977
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=marfino,ru
+
+Location: Aksu, CN. City ID: 1529660
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=aksu,cn
+
+Location: Diamantino, BR. City ID: 3464724
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=diamantino,br
+
+Location: Piacabucu, BR. City ID: 3454005
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=piacabucu,br
+
+Location: khonuu, ru has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=khonuu,ru
+
+Location: Verkhnyaya Inta, RU. City ID: 1487332
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=verkhnyaya+inta,ru
+
+Location: Trairi, BR. City ID: 3386177
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=trairi,br
+
+Location: Matagami, CA. City ID: 6067747
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=matagami,ca
+
+Location: Touros, BR. City ID: 3386213
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=touros,br
+
+Location: Minab, IR. City ID: 123941
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=minab,ir
+
+Location: parras, mx has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=parras,mx
+
+Location: cabo rojo, us has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=cabo+rojo,us
+
+Location: San Cristobal, EC. City ID: 3652567
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=san+cristobal,ec
+
+Location: laguna, br has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=laguna,br
+
+Location: Muravlenko, RU. City ID: 1540711
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=muravlenko,ru
+
+Location: Navalmoral de la Mata, ES. City ID: 2513324
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=navalmoral+de+la+mata,es
+
+Location: mrirt, ma has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=mrirt,ma
+
+Location: Tymovskoye, RU. City ID: 2120334
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=tymovskoye,ru
+
+Location: Hammerfest, NO. City ID: 779683
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=hammerfest,no
+
+Location: Chubbuck, US. City ID: 5588842
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=chubbuck,us
+
+Location: chagda, ru has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=chagda,ru
+
+Location: acarau, br has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=acarau,br
+
+Location: Maposeni, TZ. City ID: 878073
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=maposeni,tz
+
+Location: Worland, US. City ID: 5843495
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=worland,us
+
+Location: Lumby, CA. City ID: 6061958
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=lumby,ca
+
+Location: kemijarvi, fi has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=kemijarvi,fi
+
+Location: Shubarshi, KZ. City ID: 608270
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=shubarshi,kz
+
+Location: Knysna, ZA. City ID: 988698
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=knysna,za
+
+Location: Sumbe, AO. City ID: 3346015
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=sumbe,ao
+
+Location: Balarampur, IN. City ID: 1277634
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=balarampur,in
+
+Location: Fatezh, RU. City ID: 563300
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=fatezh,ru
+
+Location: Cabedelo, BR. City ID: 3404558
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=cabedelo,br
+
+Location: Askino, RU. City ID: 580577
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=askino,ru
+
+Location: Gimli, CA. City ID: 5961417
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=gimli,ca
+
+Location: Mackay, AU. City ID: 2159220
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=mackay,au
+
+Location: Praia, CV. City ID: 3374333
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=praia,cv
+
+Location: Shebalino, RU. City ID: 1492299
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=shebalino,ru
+
+Location: requena, pe has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=requena,pe
+
+Location: Arman, RU. City ID: 2127060
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=arman,ru
+
+Location: Marawi, SD. City ID: 370481
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=marawi,sd
+
+Location: Palembang, ID. City ID: 1633070
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=palembang,id
+
+Location: Rio Sereno, PA. City ID: 3701810
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=rio+sereno,pa
+
+Location: Cookeville, US. City ID: 4615145
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=cookeville,us
+
+Location: Icod de los Vinos, ES. City ID: 2516474
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=icod+de+los+vinos,es
+
+Location: Rio Gallegos, AR. City ID: 3838859
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=rio+gallegos,ar
+
+Location: Middelburg, ZA. City ID: 976361
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=middelburg,za
+
+Location: ginda, er has no weather data
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=ginda,er
+
+Location: Shaoguan, CN. City ID: 1795874
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=shaoguan,cn
+
+Location: Dafeng, CN. City ID: 1813088
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=dafeng,cn
+
+Location: Laje, BR. City ID: 3456450
+http://api.openweathermap.org/data/2.5/weather?units=Imperial&APPID=8a3a0fd86ccd3117b69e5a75b54b43bf&q=laje,br
+
+Found by Open Weather Map: 537
+Not found by Open Weather Map: 81
+
+Location: Mys Shmidta, Chukotka Autonomous Okrug, Russia, 689350
+https://maps.googleapis.com/maps/api/geocode/json?address=mys+shmidta&sensor=false&components=country:ru&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Mata'ura, French Polynesia
+https://maps.googleapis.com/maps/api/geocode/json?address=mataura&sensor=false&components=country:pf&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Samusu, Samoa
+https://maps.googleapis.com/maps/api/geocode/json?address=samusu&sensor=false&components=country:ws&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Krong Samraong, Cambodia
+https://maps.googleapis.com/maps/api/geocode/json?address=phumi+samraong&sensor=false&components=country:kh&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Attawapiskat, ON, Canada
+https://maps.googleapis.com/maps/api/geocode/json?address=attawapiskat&sensor=false&components=country:ca&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Sale'aula, Samoa
+https://maps.googleapis.com/maps/api/geocode/json?address=saleaula&sensor=false&components=country:ws&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Dolbeau-Mistassini, QC, Canada
+https://maps.googleapis.com/maps/api/geocode/json?address=dolbeau&sensor=false&components=country:ca&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Belushya Guba, Arkhangelsk Oblast, Russia
+https://maps.googleapis.com/maps/api/geocode/json?address=belushya+guba&sensor=false&components=country:ru&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Villingili, Maldives
+https://maps.googleapis.com/maps/api/geocode/json?address=viligili&sensor=false&components=country:mv&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Phan Rang–Tháp Chàm, Ninh Thuan Province, Vietnam
+https://maps.googleapis.com/maps/api/geocode/json?address=phan+rang&sensor=false&components=country:vn&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Taolagnaro, Madagascar
+https://maps.googleapis.com/maps/api/geocode/json?address=taolanaro&sensor=false&components=country:mg&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Codrington, Antigua and Barbuda
+https://maps.googleapis.com/maps/api/geocode/json?address=codrington&sensor=false&components=country:ag&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Ittoqqortoormiit, Greenland
+https://maps.googleapis.com/maps/api/geocode/json?address=illoqqortoormiut&sensor=false&components=country:gl&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Tumanny, Murmansk Oblast, Russia, 184375
+https://maps.googleapis.com/maps/api/geocode/json?address=tumannyy&sensor=false&components=country:ru&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Touggourt, Algeria
+https://maps.googleapis.com/maps/api/geocode/json?address=tuggurt&sensor=false&components=country:dz&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Ghat, Libya
+https://maps.googleapis.com/maps/api/geocode/json?address=gat&sensor=false&components=country:ly&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Amderma, Nenets Autonomous Okrug, Russia, 166744
+https://maps.googleapis.com/maps/api/geocode/json?address=amderma&sensor=false&components=country:ru&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Zhetikara 110000, Kazakhstan
+https://maps.googleapis.com/maps/api/geocode/json?address=zhitikara&sensor=false&components=country:kz&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Nizhneyansk, Sakha Republic, Russia, 678562
+https://maps.googleapis.com/maps/api/geocode/json?address=nizhneyansk&sensor=false&components=country:ru&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Bengkulu, Bengkulu City, Bengkulu, Indonesia
+https://maps.googleapis.com/maps/api/geocode/json?address=bengkulu&sensor=false&components=country:id&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Kuqa, Aksu, Xinjiang, China
+https://maps.googleapis.com/maps/api/geocode/json?address=kuche&sensor=false&components=country:cn&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Gabes, Tunisia
+https://maps.googleapis.com/maps/api/geocode/json?address=qabis&sensor=false&components=country:tn&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Mahaicony, Guyana
+https://maps.googleapis.com/maps/api/geocode/json?address=mahaicony&sensor=false&components=country:gy&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Sentyabr'skiy, Khanty-Mansi Autonomous Okrug, Russia, 628330
+https://maps.googleapis.com/maps/api/geocode/json?address=sentyabrskiy&sensor=false&components=country:ru&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Airai, Palau
+https://maps.googleapis.com/maps/api/geocode/json?address=airai&sensor=false&components=country:pw&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Cozumel, Quintana Roo, Mexico
+https://maps.googleapis.com/maps/api/geocode/json?address=cozumel&sensor=false&components=country:mx&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Tsiombe, Madagascar
+https://maps.googleapis.com/maps/api/geocode/json?address=tsihombe&sensor=false&components=country:mg&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Vaitupu, Wallis and Futuna
+https://maps.googleapis.com/maps/api/geocode/json?address=vaitupu&sensor=false&components=country:wf&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Tidore, Tidore Kepulauan City, North Maluku, Indonesia
+https://maps.googleapis.com/maps/api/geocode/json?address=tidore&sensor=false&components=country:id&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Sakaka Saudi Arabia
+https://maps.googleapis.com/maps/api/geocode/json?address=sakakah&sensor=false&components=country:sa&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Safi, Morocco
+https://maps.googleapis.com/maps/api/geocode/json?address=asfi&sensor=false&components=country:ma&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Raas Cabaad, Somalia
+https://maps.googleapis.com/maps/api/geocode/json?address=bur+gabo&sensor=false&components=country:so&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Bolungarvík, Iceland
+https://maps.googleapis.com/maps/api/geocode/json?address=bolungarvik&sensor=false&components=country:is&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Sittwe, Myanmar (Burma)
+https://maps.googleapis.com/maps/api/geocode/json?address=akyab&sensor=false&components=country:mm&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Samalae'ulu, Samoa
+https://maps.googleapis.com/maps/api/geocode/json?address=samalaeulu&sensor=false&components=country:ws&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Grand River South East, Mauritius
+https://maps.googleapis.com/maps/api/geocode/json?address=grand+river+south+east&sensor=false&components=country:mu&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Ólafsvík, Iceland
+https://maps.googleapis.com/maps/api/geocode/json?address=olafsvik&sensor=false&components=country:is&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Taroudant, Morocco
+https://maps.googleapis.com/maps/api/geocode/json?address=tarudant&sensor=false&components=country:ma&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Dianópolis - State of Tocantins, 77300-000, Brazil
+https://maps.googleapis.com/maps/api/geocode/json?address=dianopolis&sensor=false&components=country:br&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Embi, Kazakhstan
+https://maps.googleapis.com/maps/api/geocode/json?address=emba&sensor=false&components=country:kz&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Altônia - State of Paraná, 87550-000, Brazil
+https://maps.googleapis.com/maps/api/geocode/json?address=altonia&sensor=false&components=country:br&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Kadykchan, Magadan Oblast, Russia, 686332
+https://maps.googleapis.com/maps/api/geocode/json?address=kadykchan&sensor=false&components=country:ru&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Samana 32000, Dominican Republic
+https://maps.googleapis.com/maps/api/geocode/json?address=samana&sensor=false&components=country:do&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Pelabuhan Ratu, Sukabumi, West Java, Indonesia
+https://maps.googleapis.com/maps/api/geocode/json?address=palabuhanratu&sensor=false&components=country:id&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: St. Anthony, NL, Canada
+https://maps.googleapis.com/maps/api/geocode/json?address=saint+anthony&sensor=false&components=country:ca&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Solomon Islands
+https://maps.googleapis.com/maps/api/geocode/json?address=lata&sensor=false&components=country:sb&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Sayalgudi, Tamil Nadu, India
+https://maps.googleapis.com/maps/api/geocode/json?address=sayalgudi&sensor=false&components=country:in&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Port Vila, Vanuatu
+https://maps.googleapis.com/maps/api/geocode/json?address=vila&sensor=false&components=country:vu&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Tuvalu
+https://maps.googleapis.com/maps/api/geocode/json?address=lolua&sensor=false&components=country:tv&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Sidi Kacem, Morocco
+https://maps.googleapis.com/maps/api/geocode/json?address=sidi+qasim&sensor=false&components=country:ma&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Kismayo, Somalia
+https://maps.googleapis.com/maps/api/geocode/json?address=kismayo&sensor=false&components=country:so&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: El Alto, Peru
+https://maps.googleapis.com/maps/api/geocode/json?address=el+alto&sensor=false&components=country:pe&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Rungata, Kiribati
+https://maps.googleapis.com/maps/api/geocode/json?address=rungata&sensor=false&components=country:ki&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Saint Stephen, NB, Canada
+https://maps.googleapis.com/maps/api/geocode/json?address=saint+stephen&sensor=false&components=country:ca&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Kos'ya, Sverdlovsk Oblast, Russia, 624239
+https://maps.googleapis.com/maps/api/geocode/json?address=kosya&sensor=false&components=country:ru&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Barentsburg, Svalbard and Jan Mayen
+https://maps.googleapis.com/maps/api/geocode/json?address=barentsburg&sensor=false&components=country:sj&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Nam Tha River, Laos
+https://maps.googleapis.com/maps/api/geocode/json?address=nam+tha&sensor=false&components=country:la&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Marcona District, Peru
+https://maps.googleapis.com/maps/api/geocode/json?address=marcona&sensor=false&components=country:pe&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Ouargla, Algeria
+https://maps.googleapis.com/maps/api/geocode/json?address=warqla&sensor=false&components=country:dz&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Toliara, Madagascar
+https://maps.googleapis.com/maps/api/geocode/json?address=toliary&sensor=false&components=country:mg&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Wolmaransstad, 2630, South Africa
+https://maps.googleapis.com/maps/api/geocode/json?address=wolmaranstad&sensor=false&components=country:za&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Zarakes 340 17, Greece
+https://maps.googleapis.com/maps/api/geocode/json?address=zarakes&sensor=false&components=country:gr&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Bol'shegrivskoye, Omsk Oblast, Russia, 646850
+https://maps.googleapis.com/maps/api/geocode/json?address=bolshegrivskoye&sensor=false&components=country:ru&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Aiaki, Kiribati
+https://maps.googleapis.com/maps/api/geocode/json?address=ijaki&sensor=false&components=country:ki&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Longlac, ON P0T, Canada
+https://maps.googleapis.com/maps/api/geocode/json?address=longlac&sensor=false&components=country:ca&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Goderich, Sierra Leone
+https://maps.googleapis.com/maps/api/geocode/json?address=goderich&sensor=false&components=country:sl&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: 96100 Syracuse, Province of Syracuse, Italy
+https://maps.googleapis.com/maps/api/geocode/json?address=syracuse&sensor=false&components=country:it&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Japurá - State of Amazonas, 69495-000, Brazil
+https://maps.googleapis.com/maps/api/geocode/json?address=japura&sensor=false&components=country:br&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Tuvalu
+https://maps.googleapis.com/maps/api/geocode/json?address=asau&sensor=false&components=country:tv&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Santa María Huazolotitlán, Oax., Mexico
+https://maps.googleapis.com/maps/api/geocode/json?address=huazolotitlan&sensor=false&components=country:mx&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Scottburgh, 4180, South Africa
+https://maps.googleapis.com/maps/api/geocode/json?address=scottsburgh&sensor=false&components=country:za&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Khonuu, Sakha Republic, Russia, 678860
+https://maps.googleapis.com/maps/api/geocode/json?address=khonuu&sensor=false&components=country:ru&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Parras de la Fuente, Coahuila, Mexico
+https://maps.googleapis.com/maps/api/geocode/json?address=parras&sensor=false&components=country:mx&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Laguna - State of Santa Catarina, Brazil
+https://maps.googleapis.com/maps/api/geocode/json?address=laguna&sensor=false&components=country:br&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: M'Rirt, Morocco
+https://maps.googleapis.com/maps/api/geocode/json?address=mrirt&sensor=false&components=country:ma&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Chagda, Sakha Republic, Russia, 678915
+https://maps.googleapis.com/maps/api/geocode/json?address=chagda&sensor=false&components=country:ru&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Acaraú - State of Ceará, Brazil
+https://maps.googleapis.com/maps/api/geocode/json?address=acarau&sensor=false&components=country:br&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: 98100 Kemijärvi, Finland
+https://maps.googleapis.com/maps/api/geocode/json?address=kemijarvi&sensor=false&components=country:fi&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Requena, Peru
+https://maps.googleapis.com/maps/api/geocode/json?address=requena&sensor=false&components=country:pe&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Location: Gīnda, Eritrea
+https://maps.googleapis.com/maps/api/geocode/json?address=ginda&sensor=false&components=country:er&key=AIzaSyAA-mCwaBCLqMQVd_VOfNZ5BDTJ-kgAzTo
+
+Searching 81 cities for Lat/Lng
+80 cities found by Google Geocoding: 
+1 cities not found by Google Geocoding: 
+
+Final City Count With Weather: 537
+Final City Count Without Weather: 81
+
